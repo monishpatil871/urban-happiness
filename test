@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+  <title>Sample Website</title> 
+</head> 
+<body> 
+  <header> 
+    <nav> 
+      <ul> 
+        <li><a href="#home">Home</a></li> 
+        <li><a href="#about">About</a></li> 
+        <li><a href="#services">Services</a></li> 
+        <li><a href="#contact">Contact</a></li> 
+      </ul> 
+    </nav> 
+  </header> 
+  <main> 
+    <section id="home"> 
+      <h1>Welcome to our website</h1> 
+      <p>This is a sample website to demonstrate basic HTML structure.</p> 
+    </section> 
+    <section id="about"> 
+      <h2>About Us</h2> 
+      <p>We are a company that specializes in web development and design.</p> 
+    </section> 
+    <section id="services"> 
+      <h2>Our Services</h2> 
+      <ul> 
+        <li>Web Design</li> 
+        <li>Web Development</li> 
+        <li>SEO</li> 
+      </ul> 
+    </section> 
+    <section id="contact"> 
+      <h2>Contact Us</h2> 
+      <p>Email: info@samplewebsite.com</p> 
+      <p>Phone: 555-555-5555</p> 
+    </section> 
+  </main> 
+  <footer> 
+    <p>Copyright © 2023 Sample Website</p> 
+  </footer> 
+</body> 
+</html>
